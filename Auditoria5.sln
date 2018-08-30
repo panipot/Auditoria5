@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auditoria5.Android", "Auditoria5\Auditoria5.Android\Auditoria5.Android.csproj", "{27D32B99-195B-4993-B4C7-8702869D5DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auditoria5", "Auditoria5\Auditoria5\Auditoria5.csproj", "{5B6AC09D-2D92-4E7F-9A61-64651E60EF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D32B99-195B-4993-B4C7-8702869D5DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D32B99-195B-4993-B4C7-8702869D5DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D32B99-195B-4993-B4C7-8702869D5DD0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{27D32B99-195B-4993-B4C7-8702869D5DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D32B99-195B-4993-B4C7-8702869D5DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D32B99-195B-4993-B4C7-8702869D5DD0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5B6AC09D-2D92-4E7F-9A61-64651E60EF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6AC09D-2D92-4E7F-9A61-64651E60EF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6AC09D-2D92-4E7F-9A61-64651E60EF0B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5B6AC09D-2D92-4E7F-9A61-64651E60EF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6AC09D-2D92-4E7F-9A61-64651E60EF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6AC09D-2D92-4E7F-9A61-64651E60EF0B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFE9684A-7A50-44AF-AB97-9C8D2A253A48}
+	EndGlobalSection
+EndGlobal
